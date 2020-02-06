@@ -7,7 +7,7 @@ class Counter extends React.Component {
     // *note* this doesn't mean to directly mutate your state, more on this later!
     super(props);
     // initialize component state
-    this.state = { count: 0 }
+    this.state = { count: this.props.initCounter ? this.props.initCounter : 0 }
     
     // The following function is a Javascript-ism.
     // This binding is necessary to make `this` work in the callback.
