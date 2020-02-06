@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped by Scott Beinlich (@sbeinlich) with [Create React App](https://github.com/facebook/create-react-app).
+
+This is a mini demo enviroment of the most basic *components* of a React app, perhaps useful for teaching purposes. 
+Note that for EECS485, the project structure is slightly different, but the React part is the important takeaway!
+
 
 ## Available Scripts
 
