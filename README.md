@@ -3,6 +3,22 @@ This project was bootstrapped by Scott Beinlich (@sbeinlich) with [Create React 
 This is a mini demo enviroment of the most basic *components* of a React app, perhaps useful for teaching purposes. 
 Note that for EECS485, the project structure is slightly different, but the React part is the important takeaway!
 
+## Basic Setup
+`git clone` this repo
+
+run `yarn` to install necessary dependencies. 
+
+run `yarn run` and navigate to localhost:3000.
+
+
+#### A note about using `yarn` over `npm`
+`yarn` is simply my preferred package manager. `npm` also works, but this repo uses `yarn`!  
+
+[Info on installing `yarn`](https://classic.yarnpkg.com/en/docs/install/#mac-stable). 
+
+[Info why I picked yarn over npm](https://blog.risingstack.com/yarn-vs-npm-node-js-package-managers/).
+
+
 
 ## Available Scripts
 
