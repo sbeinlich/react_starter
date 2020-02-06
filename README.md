@@ -16,7 +16,7 @@ run `yarn run` and navigate to localhost:3000.
 
 [Info on installing `yarn`](https://classic.yarnpkg.com/en/docs/install/#mac-stable). 
 
-[Info why I picked yarn over npm](https://blog.risingstack.com/yarn-vs-npm-node-js-package-managers/).
+[Info why I picked `yarn` over `npm`](https://blog.risingstack.com/yarn-vs-npm-node-js-package-managers/).
 
 
 
