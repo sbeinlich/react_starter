@@ -6,9 +6,9 @@ Note that for EECS485, the project structure is slightly different, but the Reac
 ## Basic Setup
 `git clone` this repo
 
-run `yarn` to install necessary dependencies. 
+run `yarn` to install necessary dependencies. Or to be consistent with EECS485, run `npm install`.
 
-run `yarn run` and navigate to localhost:3000.
+run `yarn run` and navigate to localhost:3000. Or to be consistent with EECS485, run `npm run start` and navigate to localhost:3000. 
 
 
 #### A note about using `yarn` over `npm`
@@ -22,7 +22,7 @@ run `yarn run` and navigate to localhost:3000.
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can run the following commands. Note that the general equivalent to `yarn [command]` is to use `npm run [command]`. However, this project was built with `yarn` in mind, and provides no guarantees on scalability or issues you may run into if `npm` is used. In most cases, you should be good using either `yarn` or `npm`, but don't use both.
 
 ### `yarn start`
 
