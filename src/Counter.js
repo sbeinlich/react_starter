@@ -31,7 +31,7 @@ class Counter extends React.Component {
   handleClick(e) {
     e.preventDefault(); // Prevent button form submitting form (interrupt the normal JS event)
     console.log('user clicked!')
-    this.setState({ count: this.state.count + 1})
+    this.setState((prevState) => ({ count: prevState.count + 1}));
   }
 
   render() {
